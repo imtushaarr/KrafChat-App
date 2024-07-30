@@ -1,6 +1,9 @@
 # KrafChat App
 KrafChat App is a full-stack chat application built using React.js, Firebase, and Zustand. This project provides real-time chat functionality with user authentication, image sharing, emoji support, and more.
 
+![WhatsApp Image 2024-07-31 at 04 45 55](https://github.com/user-attachments/assets/b4f68b19-5e1b-4d4f-bc99-39d0ac3efc35)
+
+
 ## Features
 - **Real-time Chat**: Send and receive messages in real-time.
 - **User Authentication**: Secure sign-in and sign-out using Firebase Authentication.
