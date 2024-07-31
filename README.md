@@ -5,7 +5,7 @@ KrafChat App is a full-stack chat application built using React.js, Firebase, an
 
 
 ## Ducumentation Link : 
-<a ref="https://tushar-gupta-portfolio.vercel.app/sub-pages/project-2.html">Link</a>
+[Documentation Link](https://tushar-gupta-portfolio.vercel.app/sub-pages/project-2.html)
 
 ## Features
 - **Real-time Chat**: Send and receive messages in real-time.
